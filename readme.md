@@ -1,0 +1,1 @@
+I forgot how to write markup, but this is my readme for this project. I will be adding/changing this file to showcase basic Git functionality.
